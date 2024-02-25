@@ -1,5 +1,5 @@
 <h1 align="center">NumPy Practices</h1>
-<div align="center"><img src="NumPy Logo.png" width="50%"></div>
+<div align="center"><img src="NumPy Logo.png" width="75%"></div>
 <p>This repository is your one-stop shop for learning and exploring the amazing world of NumPy, the fundamental library for scientific computing in Python! Whether you're a beginner programmer or just starting your scientific Python journey, this repository will guide you through everything you need to know about NumPy in a fun and interactive way.</p>
 
 <h3>Introduction to NumPy:</h3>
